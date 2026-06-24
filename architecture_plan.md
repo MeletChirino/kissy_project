@@ -1,4 +1,4 @@
-# 📑 System Architecture & Stack Document: Confections Workshop V1
+# 📑 System Architecture & Stack Document: Kissy Project
 
 ## 1. Executive Summary
 

@@ -1,4 +1,4 @@
-# 🚀 Deployment & Database Setup Guide: Confections Workshop V1
+# 🚀 Deployment & Database Setup Guide: Kissy Project
 
 ## 1. Infrastructure (Docker Compose)
 This multi-container setup initializes the PostgreSQL database engine and binds it to NocoDB as the primary metadata and data storage layer.
